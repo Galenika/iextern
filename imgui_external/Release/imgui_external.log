@@ -1,0 +1,9 @@
+﻿  Создание кода
+c:\users\localadm\desktop\hz\seneeno\1\imgui_external\imgui_external\entry.cpp(768): warning C4715: IsDead: значение возвращается не при всех путях выполнения
+c:\users\localadm\desktop\hz\seneeno\1\imgui_external\imgui_external\entry.cpp(750): warning C4715: GetTeam: значение возвращается не при всех путях выполнения
+c:\users\localadm\desktop\hz\seneeno\1\imgui_external\imgui_external\entry.cpp(759): warning C4715: GetTeam: значение возвращается не при всех путях выполнения
+c:\users\localadm\desktop\hz\seneeno\1\imgui_external\imgui_external\entry.cpp(736): warning C4715: GetCrosshairId: значение возвращается не при всех путях выполнения
+c:\users\localadm\desktop\hz\seneeno\1\imgui_external\imgui_external\entry.cpp(1510): warning C4715: WinMain: значение возвращается не при всех путях выполнения
+  All 980 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  imgui_external.vcxproj -> C:\Users\localadm\Desktop\hz\seneeno\1\imgui_external\Release\iext_G93uF.exe
